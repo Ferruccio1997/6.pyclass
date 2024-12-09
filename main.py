@@ -34,6 +34,8 @@ a = [
     1,
     1,
     1,
-    1,
-    111111111111111111111111111111111111111111111111111111111,
+    1111111111111111111111111111111111111111111111111111111111,
 ]
+
+# Pesquisar quais pre commits usar
+# Indicaçoes: black, isort, flake8  ;  bandit  ;  commitizen
